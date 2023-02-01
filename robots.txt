@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://everythingness.github.io/notes/sitemap.xml

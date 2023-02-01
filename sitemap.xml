@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://everythingness.github.io/notes/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://everythingness.github.io/notes/</loc>
+</url>
+<url>
+<loc>https://everythingness.github.io/notes/about/</loc>
+<lastmod>2023-02-01T12:44:49+01:00</lastmod>
+<image:image>
+<image:loc>https://everythingness.github.io/notes/media/posts/4/_freudian-cigar.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://everythingness.github.io/notes/blank-post-with-feature-image/</loc>
+<lastmod>2022-10-08T09:14:57+02:00</lastmod>
+<image:image>
+<image:loc>https://everythingness.github.io/notes/media/posts/31/rhino-painting-yellow-st-louis-zoo.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://everythingness.github.io/notes/no-date/</loc>
+<lastmod>2022-09-16T07:09:51+02:00</lastmod>
+<image:image>
+<image:loc>https://everythingness.github.io/notes/media/posts/24/lange-detail-of-detail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://everythingness.github.io/notes/page/2/</loc>
+</url>
+</urlset>
